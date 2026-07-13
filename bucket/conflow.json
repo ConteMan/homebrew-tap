@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ConteMan/conflow/releases/download/v0.1.0/conflow_0.1.0_windows_amd64.zip",
+            "bin": [
+                "conflow.exe"
+            ],
+            "hash": "e6e6322113c56249d61fa50e872577b73b28a9b3f0008afd2671b8cdc7058cd2"
+        },
+        "arm64": {
+            "url": "https://github.com/ConteMan/conflow/releases/download/v0.1.0/conflow_0.1.0_windows_arm64.zip",
+            "bin": [
+                "conflow.exe"
+            ],
+            "hash": "d221d7a7bb88241392189b458bf688e865fec9a0d403ca3c0cd0f0778e2b5c20"
+        }
+    },
+    "homepage": "https://github.com/ConteMan/conflow",
+    "license": "MIT",
+    "description": "Local-first ConfigOps workbench for Firebase Remote Config"
+}
