@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ConteMan/conflow/releases/download/v0.3.0/conflow_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/ConteMan/conflow/releases/download/v0.4.0/conflow_0.4.0_windows_amd64.zip",
             "bin": [
                 "conflow.exe"
             ],
-            "hash": "da4335a5bb6fce8205806618af84383320a416d55826c208c443fab972b9cfe1"
+            "hash": "75009198daaa19a1de4795651b645a86032c0adef3fb33dece04501da39513fc"
         },
         "arm64": {
-            "url": "https://github.com/ConteMan/conflow/releases/download/v0.3.0/conflow_0.3.0_windows_arm64.zip",
+            "url": "https://github.com/ConteMan/conflow/releases/download/v0.4.0/conflow_0.4.0_windows_arm64.zip",
             "bin": [
                 "conflow.exe"
             ],
-            "hash": "788fbc62d478e81f57054c4aa324155cbe639097e5f47961803ef620aeafe597"
+            "hash": "a6c38fa26a95a63745be5083cd66a6d43f6e538845a8e774453abc9f19049d02"
         }
     },
     "homepage": "https://github.com/ConteMan/conflow",
