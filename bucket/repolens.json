@@ -1,19 +1,19 @@
 {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ConteMan/repolens/releases/download/v1.5.0/repolens_1.5.0_windows_amd64.zip",
+            "url": "https://github.com/ConteMan/repolens/releases/download/v1.6.0/repolens_1.6.0_windows_amd64.zip",
             "bin": [
                 "repolens.exe"
             ],
-            "hash": "a617fccbf688e1fe94a6ec18c5cf0fe7f0e8e11ab1401d875eafee3edd52b9bc"
+            "hash": "52af0afe63d013762e5fcd5f047cf9ef5561ccf1fd307dbd3c0de3c4d7ae868a"
         },
         "arm64": {
-            "url": "https://github.com/ConteMan/repolens/releases/download/v1.5.0/repolens_1.5.0_windows_arm64.zip",
+            "url": "https://github.com/ConteMan/repolens/releases/download/v1.6.0/repolens_1.6.0_windows_arm64.zip",
             "bin": [
                 "repolens.exe"
             ],
-            "hash": "bb016dcd06df8aa338a212c97152df939a78bb254ab8e237c0dc99adf10bee48"
+            "hash": "236525d779047c780a585ff63e7a2d1b1bdbb08c1e9e5dfb234fd8fa1d8909dd"
         }
     },
     "homepage": "https://github.com/ConteMan/repolens",
